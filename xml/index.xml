@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>The Hemlock</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication information</p>
@@ -18,7 +18,9 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p><s>Our share of night to bear,</s> <s>our share of morning,</s> Our blank to bliss to fill, Our blank in scorning.</p>
+         <p>Here a star, there a star, Some lose their way, Here a mist, and there a mist, Afterwards -- day!</p>
       </body>
+      
   </text>
 </TEI>
